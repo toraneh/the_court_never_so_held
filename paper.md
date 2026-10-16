@@ -139,3 +139,4 @@ The correct doctrinal question is therefore neither whether a statute has been l
 * *Seminole Tribe of Florida v. Florida*, 517 U.S. 44 (1996).
 * *Tennessee v. Lane*, 541 U.S. 509 (2004).
 * *United States v. Georgia*, 546 U.S. 151 (2006).
+* *United States v. Morrison*, 529 U.S. 598 (2000)
