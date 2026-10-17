@@ -131,12 +131,20 @@ The correct doctrinal question is therefore neither whether a statute has been l
 
 ## References
 
-* *Allen v. Cooper*, 589 U.S. 248 (2020).
-* *Board of Trustees of the University of Alabama v. Garrett*, 531 U.S. 356 (2001).
-* *City of Boerne v. Flores*, 521 U.S. 507 (1997).
-* *Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank*, 527 U.S. 627 (1999).
-* *Fitzpatrick v. Bitzer*, 427 U.S. 445 (1976).
-* *Seminole Tribe of Florida v. Florida*, 517 U.S. 44 (1996).
-* *Tennessee v. Lane*, 541 U.S. 509 (2004).
-* *United States v. Georgia*, 546 U.S. 151 (2006).
-* *United States v. Morrison*, 529 U.S. 598 (2000)
+ *Allen v. Cooper*, 589 U.S. 248 (2020).
+ 
+ *Board of Trustees of the University of Alabama v. Garrett*, 531 U.S. 356 (2001).
+ 
+ *City of Boerne v. Flores*, 521 U.S. 507 (1997).
+ 
+ *Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank*, 527 U.S. 627 (1999).
+ 
+ *Fitzpatrick v. Bitzer*, 427 U.S. 445 (1976).
+ 
+ *Seminole Tribe of Florida v. Florida*, 517 U.S. 44 (1996).
+ 
+ *Tennessee v. Lane*, 541 U.S. 509 (2004).
+ 
+ *United States v. Georgia*, 546 U.S. 151 (2006).
+ 
+ *United States v. Morrison*, 529 U.S. 598 (2000)
