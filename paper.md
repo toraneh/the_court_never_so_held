@@ -16,7 +16,7 @@ The United States Supreme Court has never held that Title II of the Americans wi
 
 ## 1. Introduction
 
-The Supreme Court's sovereign-immunity cases involving the Fourteenth Amendment do not support the simple proposition that Title II of the Americans with Disabilities Act ("ADA") is either generally valid or generally invalid under § 5. The Court has instead addressed particular applications of Title II under distinct constitutional predicates.
+The United States Supreme Court's sovereign-immunity cases involving the Fourteenth Amendment do not support the simple proposition that Title II of the Americans with Disabilities Act ("ADA") is either generally valid or generally invalid under § 5. The Court has instead addressed particular applications of Title II under distinct constitutional predicates.
 
 In *Board of Trustees of the University of Alabama v. Garrett*, the Court held that Congress had not validly abrogated state sovereign immunity through Title I of the ADA, expressly declining to decide whether Title II was a valid exercise of Congress's § 5 power. *Tennessee v. Lane* later held that Title II validly abrogated state sovereign immunity as applied to the class of cases implicating the fundamental right of access to the courts. *United States v. Georgia* subsequently held that Title II validly abrogates immunity insofar as the challenged conduct itself violates the Fourteenth Amendment, while leaving open the validity of abrogation for Title II violations that do not independently violate the Constitution.
 
@@ -116,7 +116,7 @@ Crucially, an as-applied theory faces severe structural and statutory hurdles in
 
 ## 8. Conclusion: The Architecture of As-Applied Abrogation
 
-The Supreme Court's ADA and intellectual property sovereign-immunity cases do not establish general rules that statutes are either wholly valid or wholly invalid under § 5 of the Fourteenth Amendment.
+The United States Supreme Court's ADA and intellectual property sovereign-immunity cases do not establish general rules that statutes are either wholly valid or wholly invalid under § 5 of the Fourteenth Amendment.
 
 * *Garrett* reserved Title II while striking down Title I.
 * *Lane* sustained Title II abrogation for a defined class of cases involving fundamental access to courts.
